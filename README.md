@@ -41,7 +41,7 @@
 ```
 Assignment 1
 
-(1) Sign up for an account on GitHub and send your username to me
+(1) Sign up for an account on GitHub and send your username to me.
 (2) Apply for an LSU HPC account (https://accounts.hpc.lsu.edu/login_request.php). When you do, 
     list me as your sponsor. Once your account is created, send me your username.
 ```
