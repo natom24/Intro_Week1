@@ -23,7 +23,7 @@
   - GPU
 
 - Unix Filesystem
-	- [Filesystem overview](https://github.com/IntroToCompBioLSU-Spr20/Intro_Week1/blob/master/Filesystems.md)
+	- [Filesystem overview](https://github.com/FoundCompBio-Spr22/Intro_Week1/blob/main/Filesystems.md)
  	- The Unix root (/)
    		- The very base of the filesystem
 	- Absolute paths
